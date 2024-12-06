@@ -1,24 +1,6 @@
 ﻿{
     "pack": {
         "pack_format": 48,
-        "description": "Player skull maker for 1.21+"
-    },
-    "metadata": {
-        "author": "Flowerssauce",
-        "project": {
-            "name": "Player skull maker",
-            "url": "https://github.com/flowersauce/Player_skull_maker"
-        },
-        "original_author": "zhangshenxing",
-        "original_project": {
-            "name": "CraftHead",
-            "url": "https://github.com/zhangshenxing/CraftingPlusPlus/tree/master/other_datapacks/CraftHead"
-        },
-        "license": {
-            "name": "GNU General Public License v3.0",
-            "url": "https://www.gnu.org/licenses/gpl-3.0.html",
-            "description": "本数据包基于 GNU GPLv3 发布。您可以自由复制、修改和分发，但需保留原作者信息和相同协议。"
-        },
-        "usage": "本数据包用于玩家头颅的地板合成：将署名的书与凋零骷髅头颅丢在一起，即可生成署名玩家对应的头颅。"
+        "description": "Player skull maker for 1.21+ by flowersauce"
     }
 }
