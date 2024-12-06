@@ -1,13 +1,13 @@
 ﻿{
     "pack": {
         "pack_format": 48,
-        "description": "Player skull maker for 1.21"
+        "description": "Player skull maker for 1.21+"
     }
     "metadata": {
         "author": "Flowerssauce",
         "project": {
             "name": "Player skull maker",
-            "url": "https://github.com/zhangshenxing/CraftingPlusPlus/tree/master/other_datapacks/CraftHead"
+            "url": "https://github.com/flowersauce/Player_skull_maker"
         },
         "original_author": "zhangshenxing",
         "original_project": {
