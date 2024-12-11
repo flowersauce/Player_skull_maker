@@ -1,7 +1,7 @@
 ﻿{
     "pack": {
         "pack_format": 48,
-        "description": "§6§l玩家头颅生成器\n§cFlowersauce"
+        "description": "§6§l玩家头颅生成器\n§cFlowersauce",
         "supported_formats": [48, 61]
     }
 }
