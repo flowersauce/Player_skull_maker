@@ -1,6 +1,7 @@
 ﻿{
     "pack": {
         "pack_format": 48,
-        "description": "Player skull maker for 1.21+ by flowersauce"
+        "description": "§6§l玩家头颅生成器\n§cFlowersauce"
+        "supported_formats": [48, 61]
     }
 }
